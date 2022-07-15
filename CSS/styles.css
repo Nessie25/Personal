@@ -87,6 +87,7 @@ a:hover {
 .texts {
     color: #40514E;
     width: 40%;
+    margin:auto;
 }
 
 .contact-message {
